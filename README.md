@@ -6,3 +6,4 @@
 4. Create EmployeeRepository
 5. Create EmployeeDto and EmployeeMapper
 6. Build Add Employee REST API
+7. Build Get Employee REST API
